@@ -12,8 +12,8 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Binh Nguyen',
+  title: "Hi all, I'm Binh",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
@@ -21,18 +21,18 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'siri2moon',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://binhnguyen.github.io/',
+  linkedin: 'https://www.linkedin.com/in/siri2moon/',
+  github: 'https://github.com/siri2moon',
+  instagram: 'https://www.instagram.com/siri2moon',
+  facebook: 'https://www.facebook.com/binhnguyenit',
+  twitter: 'https://twitter.com/siri2moon',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -299,19 +299,20 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Binh Nguyen',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
+  author: 'Binh Nguyen',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
   url: 'https://developer-portfolio-1hanzla100.vercel.app',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Binh',
+    'Binh Nguyen',
+    'siri2moon',
+    'binhnguyen.it',
+    'Binh IT Da Nang',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Binh Nguyen Portfolio ',
+    'Binh Portfolio',
   ],
 };
